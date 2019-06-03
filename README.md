@@ -3,17 +3,19 @@ Enrutados App | Universidad EIA ![logo eia](https://github.com/EIA-University/Lo
 
 Enrutados es la estrategia liderada por la oficina de Bienestar Institucional para ofrecer más facilidades de transporte a los estudiantes y empleados.
 
+
 ## Descripción:
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip. 
 
-## Requerimientos
+##Comenzando 
+### Requerimientos
 * requerimiento 1
 * requerimiento 2
 
 
-## Importar Un Proyecto
+### Importar Un Proyecto
 para correr el proyecto:
 
 1. bajar las dependecias de php con composer
@@ -57,9 +59,13 @@ para correr el proyecto:
 
 
 ## Recursos
+* recurso 1
+* recurso 2
 
-
-## Lista de contribuidores:
+## Contribuyendo:
+Por favor lee el CONTRIBUTING.md para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+## Licencia:
+Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE.md]() para más detalles
 
 
 
