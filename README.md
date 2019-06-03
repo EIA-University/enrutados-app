@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip. 
 
-# Comenzando 
+## Comenzando :rocket:
 ### Requerimientos
 * requerimiento 1
 * requerimiento 2
@@ -63,7 +63,7 @@ para correr el proyecto:
 * recurso 2
 
 ## Contribuyendo:
-Por favor lee el CONTRIBUTING.md para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md]() para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 ## Licencia:
 Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE.md]() para más detalles
 
