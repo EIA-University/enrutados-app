@@ -62,7 +62,7 @@ para correr el proyecto:
 * recurso 1
 * recurso 2
 
-## Contribuyendo
+## Contribuir
 Por favor lee el [CONTRIBUTING.md]() para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 ## Licencia
 Este proyecto está licenciado bajo la Licencia Apache License 2.0  - vea el archivo [LICENSE.md](LICENSE.md) para más detalles
